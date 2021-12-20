@@ -321,7 +321,7 @@ footer > * {
     width: 20vh;
     height: 10vh;
 }
-.order-page{
+form{
     margin: 0 0 0 35%;
 }
 .choose-transport{
@@ -467,7 +467,4 @@ input{
 }
 textarea{
     border-radius: 5px;
-}
-form {
-    margin-left: 35%;
 }
